@@ -1,24 +1,21 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import logo from '../../../../presets/images/LOGO.png'
+import logo from '../../../../presets/images/LOGO.png';
+
 const TopNav = () => {
     return (
         <div className="navbar bg-base-100 px-24">
             <div className="navbar-start">
-                <Link to='/' className="btn btn-ghost normal-case text-xl">
+                <Link to='/' className="normal-case text-xl">
                     <img className='w-24' src={logo} alt="" />
                 </Link>
             </div>
-            <div style={{color:'white',fontSize:'16px'}} className="navbar-center">
+            <div style={{ color: 'white', fontSize: '16px' }} className="navbar-center">
                 <input className='input input-bordered' type="text" placeholder='search' />
             </div>
             <div className="navbar-end">
-                <button className="btn btn-ghost">
-                    login
-                </button>
-                <button className="btn btn-ghost">
-                    logOut
-                </button>
+                <button className="btn btn-ghost">login</button>
+                <button className="btn btn-ghost">logOut</button>
             </div>
         </div>
     );

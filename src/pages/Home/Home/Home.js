@@ -1,20 +1,31 @@
 import React, { useEffect, useState } from 'react';
+import ItemProduct from './ItemProduct';
 
 const Home = () => {
-    const [count, setCount] = useState(1);
+    const [product, setProduct] = useState([]);
 
     useEffect(() => {
-        // Update the document title using the browser API
-        document.title = `You clicked ${count} times`;
+        fetch('books.json')
+            .then(res => res.json())
+            .then(data => setProduct(data))
     });
+
+    const addProducts = (product) => {
+        console.log("clicked add product");
+    }
 
     return (
         <div>
-            <button class="btn btn-primary">Button</button>
-            <h1 className=''>You clicked {count} times</h1>
-            <button onClick={() => setCount(count + 1)}>
-                Click me
-            </button>
+            {/* <h1 className=''>You clicked {product.length} times</h1> */}
+            {
+                product.map(product =>
+                    <ItemProduct
+                        key={product.id}
+                        product={product}
+                        addProducts={addProducts}
+                    />
+                )
+            }
         </div>
     );
 };
