@@ -3,12 +3,12 @@ import { Link } from 'react-router-dom';
 
 const BottomNav = () => {
     const menu = <>
-        <li><Link>হোম</Link></li>
-        <li><Link>বই</Link></li>
-        <li><Link>লেখক</Link></li>
-        <li><Link>পোশাক</Link></li>
-        <li><Link>লগ</Link></li>
-        <li><Link>ষ্টেশনারী</Link></li>
+        <li><Link to='/'>হোম</Link></li>
+        <li><Link to='/boi'>বই</Link></li>
+        <li><Link to='/lekhok'>লেখক</Link></li>
+        <li><Link to='/posak'>পোশাক</Link></li>
+        <li><Link to='/log'>ব্লগ</Link></li>
+        <li><Link to='/boi'>ষ্টেশনারী</Link></li>
     </>
 
     return (

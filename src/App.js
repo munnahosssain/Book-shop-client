@@ -1,5 +1,6 @@
 import React, { Suspense } from "react";
 import { BrowserRouter, Routes, Route, } from "react-router-dom";
+import ProductDetails from "./pages/Home/Home/ProductDetails";
 import Navbar from "./shared/Navbar/NavBar/Navbar";
 
 import NotFound from "./shared/Navbar/NotFound/NotFound";
@@ -10,9 +11,10 @@ function App() {
     <div>
       <BrowserRouter>
         <Suspense fallback={<div>Loading...</div>}>
-          <Navbar/>
+          <Navbar />
           <Routes>
             <Route path="/" element={<Home />} />
+            <Route path="/product/:productId" element={<ProductDetails />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
         </Suspense>

@@ -1,0 +1,1362 @@
+﻿<!DOCTYPE html>
+<!--[if IE 7 ]><html class="ie ie7" lang="en-US"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en-US"> <![endif]-->
+<!--[if IE 9 ]><html class="ie ie9" lang="en-US"> <![endif]-->
+<html style="overflow-y: scroll;" lang="en-US">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta charset="UTF-8" />
+<title>অফার ও ক্যাম্পেইন - Wafilife</title>
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="pingback" href="https://www.wafilife.com/xmlrpc.php" />
+<link rel="shortcut icon" href="https://wafilife-media.wafilife.com/uploads/2014/12/fevicon.png" />
+<link rel="preload" href="/wp-content/themes/wp_oswad_market-child/fonts/hind-siliguri-v7-bengali-regular.woff2" as="font" type="font/woff2" crossorigin>
+<style type="text/css">
+@font-face {
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 400;
+    src: url('/wp-content/themes/wp_oswad_market-child/fonts/hind-siliguri-v7-bengali-regular.eot'); /* IE9 Compat Modes */
+    src: local(''),
+         url('/wp-content/themes/wp_oswad_market-child/fonts/hind-siliguri-v7-bengali-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('/wp-content/themes/wp_oswad_market-child/fonts/hind-siliguri-v7-bengali-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('/wp-content/themes/wp_oswad_market-child/fonts/hind-siliguri-v7-bengali-regular.woff') format('woff'), /* Modern Browsers */
+         url('/wp-content/themes/wp_oswad_market-child/fonts/hind-siliguri-v7-bengali-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('/wp-content/themes/wp_oswad_market-child/fonts/hind-siliguri-v7-bengali-regular.svg#HindSiliguri') format('svg'); /* Legacy iOS */
+  }
+  /* hind-siliguri-500 - bengali */
+  @font-face {
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 500;
+    src: url('/wp-content/themes/wp_oswad_market-child/fonts/hind-siliguri-v7-bengali-500.eot'); /* IE9 Compat Modes */
+    src: local(''),
+         url('/wp-content/themes/wp_oswad_market-child/fonts/hind-siliguri-v7-bengali-500.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('/wp-content/themes/wp_oswad_market-child/fonts/hind-siliguri-v7-bengali-500.woff2') format('woff2'), /* Super Modern Browsers */
+         url('/wp-content/themes/wp_oswad_market-child/fonts/hind-siliguri-v7-bengali-500.woff') format('woff'), /* Modern Browsers */
+         url('/wp-content/themes/wp_oswad_market-child/fonts/hind-siliguri-v7-bengali-500.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('/wp-content/themes/wp_oswad_market-child/fonts/hind-siliguri-v7-bengali-500.svg#HindSiliguri') format('svg'); /* Legacy iOS */
+  }
+  /* hind-siliguri-600 - bengali */
+  @font-face {
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 600;
+    src: url('/wp-content/themes/wp_oswad_market-child/fonts/hind-siliguri-v7-bengali-600.eot'); /* IE9 Compat Modes */
+    src: local(''),
+         url('/wp-content/themes/wp_oswad_market-child/fonts/hind-siliguri-v7-bengali-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('/wp-content/themes/wp_oswad_market-child/fonts/hind-siliguri-v7-bengali-600.woff2') format('woff2'), /* Super Modern Browsers */
+         url('/wp-content/themes/wp_oswad_market-child/fonts/hind-siliguri-v7-bengali-600.woff') format('woff'), /* Modern Browsers */
+         url('/wp-content/themes/wp_oswad_market-child/fonts/hind-siliguri-v7-bengali-600.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('/wp-content/themes/wp_oswad_market-child/fonts/hind-siliguri-v7-bengali-600.svg#HindSiliguri') format('svg'); /* Legacy iOS */
+  }
+  /* hind-siliguri-700 - bengali */
+  @font-face {
+    font-family: 'Hind Siliguri';
+    font-style: normal;
+    font-weight: 700;
+    src: url('/wp-content/themes/wp_oswad_market-child/fonts/hind-siliguri-v7-bengali-700.eot'); /* IE9 Compat Modes */
+    src: local(''),
+         url('/wp-content/themes/wp_oswad_market-child/fonts/hind-siliguri-v7-bengali-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('/wp-content/themes/wp_oswad_market-child/fonts/hind-siliguri-v7-bengali-700.woff2') format('woff2'), /* Super Modern Browsers */
+         url('/wp-content/themes/wp_oswad_market-child/fonts/hind-siliguri-v7-bengali-700.woff') format('woff'), /* Modern Browsers */
+         url('/wp-content/themes/wp_oswad_market-child/fonts/hind-siliguri-v7-bengali-700.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('/wp-content/themes/wp_oswad_market-child/fonts/hind-siliguri-v7-bengali-700.svg#HindSiliguri') format('svg'); /* Legacy iOS */
+  }
+  </style>
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+<link rel="canonical" href="https://www.wafilife.com/online-book-fair/" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.wafilife.com/#organization","name":"WafiLife","url":"https://www.wafilife.com/","sameAs":["https://www.facebook.com/wafilife","https://www.instagram.com/wafilifebd/","https://www.youtube.com/channel/UCWpHNSUjDhbVR-spLULon3g"],"logo":{"@type":"ImageObject","@id":"https://www.wafilife.com/#logo","inLanguage":"en-US","url":"https://wafilife-media.wafilife.com/uploads/2014/12/Logo-Wafi.png","contentUrl":"https://wafilife-media.wafilife.com/uploads/2014/12/Logo-Wafi.png","width":145,"height":84,"caption":"WafiLife"},"image":{"@id":"https://www.wafilife.com/#logo"}},{"@type":"WebSite","@id":"https://www.wafilife.com/#website","url":"https://www.wafilife.com/","name":"Wafi Life","description":"Wafilife is a leading book shop in Bangladesh. We offer thousands of islamic, general and academic books at a discounted price. We provide good packaging with free shipping on Bangladesh orders over BDT 1499.","publisher":{"@id":"https://www.wafilife.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.wafilife.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://www.wafilife.com/online-book-fair/#primaryimage","inLanguage":"en-US","url":"https://wafilife-media.wafilife.com/uploads/2022/11/best-selling-offer-offer-page-.jpg","contentUrl":"https://wafilife-media.wafilife.com/uploads/2022/11/best-selling-offer-offer-page-.jpg","width":2048,"height":2048},{"@type":"WebPage","@id":"https://www.wafilife.com/online-book-fair/#webpage","url":"https://www.wafilife.com/online-book-fair/","name":"অফার ও ক্যাম্পেইন - Wafilife","isPartOf":{"@id":"https://www.wafilife.com/#website"},"primaryImageOfPage":{"@id":"https://www.wafilife.com/online-book-fair/#primaryimage"},"datePublished":"2020-12-24T02:53:18+00:00","dateModified":"2022-11-17T09:34:11+00:00","breadcrumb":{"@id":"https://www.wafilife.com/online-book-fair/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.wafilife.com/online-book-fair/"]}]},{"@type":"BreadcrumbList","@id":"https://www.wafilife.com/online-book-fair/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.wafilife.com/"},{"@type":"ListItem","position":2,"name":"অফার ও ক্যাম্পেইন"}]}]}</script>
+
+<link rel='dns-prefetch' href='//www.wafilife.com' />
+<link rel='dns-prefetch' href='//wafilife-media.s3.amazonaws.com' />
+<link rel="alternate" type="application/rss+xml" title="Wafilife &raquo; Feed" href="https://www.wafilife.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Wafilife &raquo; Comments Feed" href="https://www.wafilife.com/comments/feed/" />
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.wafilife.com/wp-includes/css/dist/block-library/style.min.css?ver=2021052' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-blocks-vendors-style-css' href='https://www.wafilife.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=6.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wc-blocks-style-css' href='https://www.wafilife.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=6.9.0' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://www.wafilife.com/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.wafilife.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wafilife-core-css' href='https://www.wafilife.com/wp-content/plugins/wafilife-core/public/css/style.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='shortcode-css' href='https://www.wafilife.com/wp-content/plugins/wd_shortcode/css/shortcode.css?ver=2021052' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-theme.css-css' href='https://www.wafilife.com/wp-content/plugins/wd_shortcode/css/bootstrap-theme.css?ver=2021052' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='https://www.wafilife.com/wp-content/plugins/wd_shortcode/css/bootstrap.css?ver=2021052' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://www.wafilife.com/wp-content/plugins/wd_shortcode/css/font-awesome.css?ver=2021052' type='text/css' media='all' />
+<link rel='stylesheet' id='owl.carousel-css' href='https://www.wafilife.com/wp-content/plugins/wd_shortcode/css/owl.carousel.css?ver=2021052' type='text/css' media='all' />
+<link rel='stylesheet' id='ct-styles-css' href='https://www.wafilife.com/wp-content/plugins/woocommerce-cart-tab/assets/css/style.css?ver=2021052' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css' href='https://www.wafilife.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2021052' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css' href='https://www.wafilife.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2021052' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css' href='https://www.wafilife.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2021052' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='solr_auto_css-css' href='https://www.wafilife.com/wp-content/plugins/wpsolr-search-engine/css/bootstrap.min.css?ver=14.9' type='text/css' media='all' />
+<link rel='stylesheet' id='solr_frontend-css' href='https://www.wafilife.com/wp-content/plugins/wpsolr-search-engine/css/style.css?ver=14.9' type='text/css' media='all' />
+<link rel='stylesheet' id='tinvwl-css' href='https://www.wafilife.com/wp-content/plugins/ti-woocommerce-wishlist/assets/css/public.min.css?ver=1.44.0' type='text/css' media='all' />
+<link rel='stylesheet' id='base-css' href='https://www.wafilife.com/wp-content/themes/wp_oswad_market/css/base.css?ver=2021052' type='text/css' media='all' />
+<link rel='stylesheet' id='css_wd_menu_frontend-css' href='https://www.wafilife.com/wp-content/themes/wp_oswad_market/css/wd_menu_front.css?ver=2021052' type='text/css' media='all' />
+<link rel='stylesheet' id='popup-maker-site-css' href='//wafilife-media.s3.amazonaws.com/uploads/pum/pum-site-styles.css?generated=1667906060&#038;ver=1.16.7' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css' href='https://www.wafilife.com/wp-content/themes/wp_oswad_market/style.css?ver=202107' type='text/css' media='all' />
+<link rel='stylesheet' id='oswadmarket_dynamic_css-css' href='https://www.wafilife.com/wp-content/themes/wp_oswad_market-child/css/oswadmarket.css?ver=202105' type='text/css' media='all' />
+<link rel='stylesheet' id='oswadmarket-css' href='https://www.wafilife.com/wp-content/themes/wp_oswad_market-child/style.css?ver=202129' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css-css' href='https://www.wafilife.com/wp-content/themes/wp_oswad_market/css/responsive.css?ver=202105' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-css' href='https://www.wafilife.com/wp-content/themes/wp_oswad_market-child/css/search-autocomplete.css?ver=202101' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-wallet-style-css' href='https://www.wafilife.com/wp-content/plugins/woo-wallet/assets/css/frontend.css?ver=1.3.24' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.wafilife.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/plugins/wd_shortcode/js/owl.carousel.min.js?ver=2021052' id='jquery.owlCarousel-js'></script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/themes/wp_oswad_market/js/wd_menu_front.js?ver=2021052' id='js_wd_menu_frontend-js'></script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/themes/wp_oswad_market-child/js/jquery.waypoints.min.js?ver=2021052' id='jquery-waypoints-js'></script>
+<link rel='shortlink' href='https://www.wafilife.com/?p=234265' />
+
+<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url("https://www.wafilife.com/wp-content/themes/wp_oswad_market/images/default-background.png"); background-position: left top; background-size: auto; background-repeat: repeat; background-attachment: scroll; }
+</style>
+
+<script>
+			var aepc_pixel = {"pixel_id":"1584802221809291","user":{},"enable_advanced_events":"yes","fire_delay":"0","enable_viewcontent":"yes","enable_addtocart":"yes","enable_addtowishlist":"no","enable_initiatecheckout":"yes","enable_addpaymentinfo":"no","enable_purchase":"yes","allowed_params":{"AddToCart":["value","currency","content_category","content_name","content_type","content_ids"],"AddToWishlist":["value","currency","content_category","content_name","content_type","content_ids"]}},
+				aepc_pixel_args = [],
+				aepc_extend_args = function( args ) {
+					if ( typeof args === 'undefined' ) {
+						args = {};
+					}
+
+					for(var key in aepc_pixel_args)
+						args[key] = aepc_pixel_args[key];
+
+					return args;
+				};
+
+			// Extend args
+			if ( 'yes' === aepc_pixel.enable_advanced_events ) {
+				aepc_pixel_args.userAgent = navigator.userAgent;
+				aepc_pixel_args.language = navigator.language;
+
+				if ( document.referrer.indexOf( document.domain ) < 0 ) {
+					aepc_pixel_args.referrer = document.referrer;
+				}
+			}
+		</script>
+<script>
+						!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+				n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+				n.push=n;n.loaded=!0;n.version='2.0';n.agent='dvpixelcaffeinewordpress';n.queue=[];t=b.createElement(e);t.async=!0;
+				t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+				document,'script','https://connect.facebook.net/en_US/fbevents.js');
+			
+						fbq('init', aepc_pixel.pixel_id, aepc_pixel.user);
+
+						setTimeout( function() {
+				fbq('track', "PageView", aepc_pixel_args);
+			}, aepc_pixel.fire_delay * 1000 );
+					</script>
+<noscript><img height="1" width="1" style="display:none"
+		               src="https://www.facebook.com/tr?id=1584802221809291&ev=PageView&noscript=1"
+			/></noscript>
+
+</head>
+<body class="page-template-default page page-id-234265 custom-background wide  theme-wp_oswad_market woocommerce-no-js tinvwl-theme-style chrome windows">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5S6JRHR"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<div class="body-wrapper">
+<div class="phone-header visible-xs">
+<div class="toggle-menu-wrapper visible-xs">
+<div class="toggle-menu-control-close"><span></span></div>
+<div class="mobile-main-menu toggle-menu">
+<ul id="menu-main-menu" class="menu">
+<li id="menu-item-219" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-219"><a href="https://www.wafilife.com/">হোম</a></li>
+<li id="menu-item-317362" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-317362"><a href="https://www.wafilife.com/cat/books/">বই</a></li>
+<li id="menu-item-381527" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-381527"><a href="https://www.wafilife.com/general-books/">জেনারেল বই</a></li>
+<li id="menu-item-22852" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-22852"><a href="https://www.wafilife.com/cat/books/subject/">বিষয়</a></li>
+<li id="menu-item-22853" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-22853"><a href="https://www.wafilife.com/cat/books/author/">লেখক</a></li>
+<li id="menu-item-22855" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-22855"><a href="https://www.wafilife.com/cat/books/publisher/">প্রকাশক</a></li>
+<li id="menu-item-235725" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-234265 current_page_item menu-item-235725"><a href="https://www.wafilife.com/online-book-fair/" aria-current="page">বইমেলা ২০২২</a></li>
+<li id="menu-item-33058" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33058"><a href="https://www.wafilife.com/preorder">প্রি-অর্ডার</a></li>
+<li id="menu-item-326855" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-326855"><a href="https://www.wafilife.com/cat/products/cosmetics/">প্রসাধনী</a></li>
+<li id="menu-item-376784" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-376784"><a href="https://www.wafilife.com/cat/products/clothing/">পোশাক</a></li>
+<li id="menu-item-286666" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-286666"><a target="_blank" rel="noopener" href="https://blog.wafilife.com/">ব্লগ</a></li>
+<li id="menu-item-381528" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-381528"><a href="https://www.wafilife.com/cat/products/stationary-item/">স্টেশনারী</a></li>
+<li>
+<a href="https://www.wafilife.com/my-account/" title="লগ ইন  /সাইন আপ">
+<span>লগ ইন /সাইন আপ</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="phone-header-bar-wrapper  visible-xs">
+<div class="phone-header-logo-section">
+<div class="col-xs-12 left-side" style="height:40px">
+<a class="mobile-logo" href="https://www.wafilife.com"><img src="https://wafilife-media.wafilife.com/uploads/2022/03/logo-v22.png" alt="WafiLife" title="WafiLife" /></a>
+</div>
+<div class="col-xs-12 right-side text-right">
+<div class="toggle-menu-control-open">
+<span></span>
+<span></span>
+<span></span>
+<span class="menu">মেন্যু</span>
+</div>
+<div style="width:28px" class="visible-xs mobile-cart">
+<a class="wafi_mobile_cart" href="https://www.wafilife.com/cart/" title="আপনার শপিং ব্যাগ দেখুন ">
+</a>
+</div>
+<div class="visible-xs sign-in">
+<a href="https://www.wafilife.com/my-account/"><span class="login-link-register"> <img style="height:30px;" src="https://www.wafilife.com/wp-content/themes/wp_oswad_market/images/ajax-loader.gif" /> </span></a>
+</div>
+</div>
+</div>
+<div class="phone-header-search-section col-xs-24">
+<div class='cls_search' style='width:100%'><form action='https://www.wafilife.com/search/' method='get' class='search-frm2'><input type="hidden" value="wdm_return_solr_rows" id="path_to_fold"><input type="hidden" id="ajax_nonce" value="559e2bec29"><input type="hidden" value="" id="search_opt">
+<div class="search-box">
+<input type="hidden" id="ajax_nonce" value="559e2bec29">
+<input type="text" id="freeSearchBoxWeb" placeholder="বইয়ের নাম ও লেখক দিয়ে অনুসন্ধান করুন" value="" name="wpsolr_q" class="search_que wafisearch sfl1" autocomplete="off" />
+<button type="submit" class="free-search-box-submit" style="position:relative;width:auto"><i class="fa fa-search"></i></button>
+<input type="hidden" value="1" id="is_after_autocomplete_block_submit"><div style="clear:both"></div></div></form></div> </div>
+</div>
+<div>
+</div>
+</div>
+<div class="main-template-loader"></div>
+<div class="wd-content">
+<div id="template-wrapper" class="hfeed">
+<div id="header" class="wd_wide">
+<div class="header-container">
+<div class="header-middle hidden-xs show_banner v1">
+<div class="header-middle-content container" style="height:87px">
+
+<div class="left-header-middle-content">
+<div class="header-logo">
+<div class="logo heading-title">
+<a href="https://www.wafilife.com"><img src="https://wafilife-media.wafilife.com/uploads/2022/03/logo-v22.png" alt="WafiLife" title="WafiLife" /></a>
+</div>
+</div>
+</div>
+
+<div class="middle-header-middle-content">
+
+<div class="header_search"><span class="bt_search search_close"></span><div class='cls_search' style='width:100%'><form action='https://www.wafilife.com/search/' method='get' class='search-frm2'><input type="hidden" value="wdm_return_solr_rows" id="path_to_fold"><input type="hidden" id="ajax_nonce" value="559e2bec29"><input type="hidden" value="" id="search_opt">
+<div class="search-box">
+<input type="hidden" id="ajax_nonce" value="559e2bec29">
+<input type="text" id="freeSearchBoxWeb" placeholder="বইয়ের নাম ও লেখক দিয়ে অনুসন্ধান করুন" value="" name="wpsolr_q" class="search_que wafisearch sfl1" autocomplete="off" />
+<button type="submit" class="free-search-box-submit" style="position:relative;width:auto"><i class="fa fa-search"></i></button>
+<input type="hidden" value="1" id="is_after_autocomplete_block_submit"><div style="clear:both"></div></div></form></div></div>
+
+</div>
+<div class="right-header-middle-content">
+<div class="login-links">
+<a class="wishlist-heart" href="/wishlist" title="উইশ লিস্ট">উইশ লিস্ট</a> <span class="seperator">| </span>
+<a style="width:88px;display:inline-block;text-align:left;" href="https://www.wafilife.com/my-account/" title="আমার অ্যাকাউন্ট"><span class="login-link-register"><img style="height:15px;" src="https://www.wafilife.com/wp-content/themes/wp_oswad_market/images/ajax-loader.gif" /> </span></a>
+</div>
+
+
+
+</div>
+</div>
+</div>
+<script type="text/javascript">
+        var _enable_sticky_menu = 1;
+        var _sticky_menu_class = '';
+    </script>
+<div class="header-bottom search-hidden v1">
+<div class="header-bottom-content container">
+<div class="header-logo wd-sticky-show hidden-xs">
+<a href="https://www.wafilife.com"><img src="https://wafilife-media.wafilife.com/uploads/2014/12/Wafi-Typogrphy.png" alt="Wafi Life" /></a>
+</div>
+
+<div class="nav">
+<div class="main-menu pc-menu wd-mega-menu-wrapper"><ul id="menu-main-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-219 menu-item-level0 wd-fly-menu">
+<a href="https://www.wafilife.com/">
+<span class='menu-label-level-0'>হোম</span>
+</a>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-317362 menu-item-level0 wd-fly-menu">
+<a href="https://www.wafilife.com/cat/books/">
+<span class='menu-label-level-0'>বই</span>
+</a>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-381527 menu-item-level0 wd-fly-menu">
+<a href="https://www.wafilife.com/general-books/">
+<span class='menu-label-level-0'>জেনারেল বই</span>
+</a>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-22852 menu-item-level0 wd-fly-menu">
+<a href="https://www.wafilife.com/cat/books/subject/">
+<span class='menu-label-level-0'>বিষয়</span>
+</a>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-22853 menu-item-level0 wd-fly-menu">
+<a href="https://www.wafilife.com/cat/books/author/">
+<span class='menu-label-level-0'>লেখক</span>
+</a>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-22855 menu-item-level0 wd-fly-menu">
+<a href="https://www.wafilife.com/cat/books/publisher/">
+<span class='menu-label-level-0'>প্রকাশক</span>
+</a>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-234265 current_page_item menu-item-235725 menu-item-level0 wd-fly-menu">
+<a href="https://www.wafilife.com/online-book-fair/">
+<span class='menu-label-level-0'>বইমেলা ২০২২</span>
+</a>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33058 menu-item-level0 wd-fly-menu">
+<a href="https://www.wafilife.com/preorder">
+<span class='menu-label-level-0'>প্রি-অর্ডার</span>
+</a>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-326855 menu-item-level0 wd-fly-menu">
+<a href="https://www.wafilife.com/cat/products/cosmetics/">
+<span class='menu-label-level-0'>প্রসাধনী</span>
+</a>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-376784 menu-item-level0 wd-fly-menu">
+<a href="https://www.wafilife.com/cat/products/clothing/">
+<span class='menu-label-level-0'>পোশাক</span>
+</a>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-286666 menu-item-level0 wd-fly-menu">
+<a target="_blank" href="https://blog.wafilife.com/">
+<span class='menu-label-level-0'>ব্লগ</span>
+</a>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-381528 menu-item-level0 wd-fly-menu">
+<a href="https://www.wafilife.com/cat/products/stationary-item/">
+<span class='menu-label-level-0'>স্টেশনারী</span>
+</a>
+</li>
+</ul></div> </div>
+
+
+
+
+</div>
+</div>
+<div style="clear:both"></div>
+<script type="text/javascript">
+        var _sub_menu_show_effect = 'dropdown';
+        var _sub_menu_show_duration = 200;
+    </script>
+</div>
+</div>
+<script type="text/javascript">
+							_ajax_uri = '/wp-admin/admin-ajax.php';
+						_on_phone = 0;
+			_on_tablet = 0;
+			//if(navigator.userAgent.indexOf(\"Mac OS X\") != -1)
+			//	console.log(navigator.userAgent);
+						//var obj_nice_scroll = jQuery("html").niceScroll({cursorcolor:"#000"});
+			//jQuery("#"+obj_nice_scroll.id).find("div:first").css({"width":"6px"});
+						jQuery('.menu li').each(function(){
+				if(jQuery(this).children('.sub-menu').length > 0) jQuery(this).addClass('parent');
+			});
+		</script>
+<div id="main-module-container"> <div class="slideshow-wrapper main-slideshow wd_wide">
+<div class="slideshow-sub-wrapper">
+</div>
+</div>
+<div id="container" class="page-template default-template wd_wide">
+<div id="content" class="container" role="main">
+<div id="main">
+<div id="container-main" class="col-sm-24">
+<div class="main-content">
+<article id="post-234265" class="post-234265 page type-page status-publish hentry">
+<div class="entry-content-post">
+
+<div class="row">
+<div class="col-xs-24">
+<a href="https://www.wafilife.com/cashback-terms-conditions/">
+<img decoding="async" src="https://wafilife-media.wafilife.com/uploads/2021/03/বিকাশ-ও-বুকমার্ক-অফার_landing-page.jpg">
+</a>
+</div>
+</div>
+
+
+<div class="row">
+<div class="col-xs-24 col-md-8">
+<a href="https://www.wafilife.com/offers-terms-and-conditions/">
+<img decoding="async" src="https://wafilife-media.wafilife.com/uploads/2021/03/৪২-ঘন্টার-অফার_offer-page.jpg" alt="">
+</a>
+</div>
+<div class="col-xs-24 col-md-8">
+<a href="https://www.wafilife.com/cat/home-product/best-selling-50/?wpsolr_sort=discount_desc">
+<img decoding="async" src="https://wafilife-media.wafilife.com/uploads/2022/11/best-selling-offer-offer-page-.jpg" alt="">
+</a>
+</div>
+<div class="col-xs-24 col-md-8">
+<a href="https://www.wafilife.com/shop/books/ek-er-ahobban">
+<img decoding="async" src="https://wafilife-media.wafilife.com/uploads/2021/03/এক-এর-আহ্বান.jpg" alt="">
+</a>
+</div>
+<div class="col-xs-24 col-md-8">
+<a href="https://www.wafilife.com/shop/quran-bishoyok-alochona/kasasul-quran/">
+<img decoding="async" src="https://wafilife-media.wafilife.com/uploads/2021/03/কাসাসুল-কুরআন.jpg" alt="">
+</a>
+</div>
+<div class="col-xs-24 col-md-8">
+<a href="https://www.wafilife.com/shop/books/fiqhi-makalat">
+<img decoding="async" src="https://wafilife-media.wafilife.com/uploads/2021/03/ফিকহি-মাকালাত-১-৬-খন্ড.jpg" alt="">
+</a>
+</div>
+<div class="col-xs-24 col-md-8">
+<a href="https://www.wafilife.com/shop/books/ashabe-bodorer-jibonkotha/">
+<img decoding="async" src="https://wafilife-media.wafilife.com/uploads/2021/03/আসহাবে-বদরের-জীবনকথা.jpg" alt="">
+</a>
+</div>
+<div class="col-xs-24 col-md-6">
+<a href="https://www.wafilife.com/?p=512984">
+<img decoding="async" src="https://wafilife-media.wafilife.com/uploads/2021/03/প্রিয়-রাসূল.jpg" alt="">
+</a>
+</div>
+<div class="col-xs-24 col-md-6">
+<a href="https://www.wafilife.com/?p=512991">
+<img decoding="async" src="https://wafilife-media.wafilife.com/uploads/2021/03/নবীজির-প্রিয়-সাহাবী-1-1.jpg" alt="">
+</a>
+</div>
+<div class="col-xs-24 col-md-6">
+<a href="https://www.wafilife.com/?p=513652">
+<img decoding="async" src="https://wafilife-media.wafilife.com/uploads/2021/03/সীরাতের-গল্প-প্যাকেজ-1.jpg" alt="">
+</a>
+</div>
+<div class="col-xs-24 col-md-6">
+<a href="https://www.wafilife.com/?p=513667">
+<img decoding="async" src="https://wafilife-media.wafilife.com/uploads/2021/03/ফিতনা-প্যাকেজ.jpg" alt="">
+</a>
+</div>
+<div class="col-xs-24 col-md-6">
+<a href="https://www.wafilife.com/?p=513659">
+<img decoding="async" src="https://wafilife-media.wafilife.com/uploads/2021/03/ছোটদের-সীরাহ-প্যাকেজ.jpg" alt="">
+</a>
+</div>
+<div class="col-xs-24 col-md-6">
+<a href="https://www.wafilife.com/shop/books/adab-series">
+<img decoding="async" src="https://wafilife-media.wafilife.com/uploads/2021/03/আদব-সিরিজ.jpg" alt="">
+</a>
+</div>
+<div class="col-xs-24 col-md-6">
+<a href="https://www.wafilife.com/shop/books/akhlaq-series/">
+<img decoding="async" src="https://wafilife-media.wafilife.com/uploads/2021/03/আখলাক-সিরিজ.jpg" alt="">
+</a>
+</div>
+<div class="col-xs-24 col-md-6">
+<a href="https://www.wafilife.com/shop/books/sonali-juger-golpogulo-2-part">
+<img decoding="async" src="https://wafilife-media.wafilife.com/uploads/2021/03/হারুনুর-রশীদ.jpg" alt="">
+</a>
+</div>
+</div>
+
+<div class="is-layout-flex wp-container-2 wp-block-columns">
+<div class="is-layout-flow wp-block-column">
+
+<div class="row">
+<div class="col-xs-12 col-md-8">
+<a href="https://www.wafilife.com/cat/books/?wpsolr_sort=discount_desc">
+<img decoding="async" src="https://wafilife-media.wafilife.com/uploads/2022/04/beshi-char-1.jpg" alt="">
+</a>
+</div>
+<div class="col-xs-12 col-md-8">
+<a href="https://www.wafilife.com/popular-writers-new-books">
+<img decoding="async" src="https://wafilife-media.wafilife.com/uploads/2022/04/prio-lekhok-1.jpg" alt="">
+</a>
+</div>
+<div class="col-xs-12 col-md-8">
+<a href="https://www.wafilife.com/popular-topics-new-books">
+<img decoding="async" src="https://wafilife-media.wafilife.com/uploads/2022/04/জনপ্রিয়-বিষয়-1.jpg" alt="">
+</a>
+</div>
+<div class="col-xs-12 col-md-8">
+<a href="https://www.wafilife.com/azan-lifestyle/">
+<img decoding="async" src="https://wafilife-media.wafilife.com/uploads/2021/03/azan-lifestyle_tiles.jpg" alt="">
+</a>
+</div>
+<div class="col-xs-12 col-md-8">
+<a href="https://www.wafilife.com/cat/products/clothing/panjabi-2/">
+<img decoding="async" src="https://wafilife-media.wafilife.com/uploads/2021/03/পান্জাবী.jpg" alt="">
+</a>
+</div>
+<div class="col-xs-12 col-md-8">
+<a href="https://www.wafilife.com/cat/brands/skmei/?wpsolr_sort=discount_desc">
+<img decoding="async" src="https://wafilife-media.wafilife.com/uploads/2021/03/ঘড়ি.jpg" alt="">
+</a>
+</div>
+<div class="col-xs-12 col-md-8">
+<a href="https://www.wafilife.com/cat/brands/hair-food/">
+<img decoding="async" src="https://wafilife-media.wafilife.com/uploads/2021/03/চুলের-যত্ন.jpg" alt="">
+</a>
+</div>
+<div class="col-xs-12 col-md-8">
+<a href="https://www.wafilife.com/cat/brands/beardbros/">
+<img decoding="async" src="https://wafilife-media.wafilife.com/uploads/2021/03/দাড়ির-যত্ন.jpg" alt="">
+</a>
+</div>
+<div class="col-xs-24 col-md-8">
+<a href="https://www.wafilife.com/cat/brands/perfumance-bd/">
+<img decoding="async" src="https://wafilife-media.wafilife.com/uploads/2021/03/perfumence_tiles.png" alt="">
+</a>
+</div>
+</div>
+
+<div class="popular-publications">
+<img decoding="async" class="hidden-xs" src="https://wafilife-media.wafilife.com/uploads/2022/02/জনপ্রিয়-প্রকাশনী.jpg">
+<img decoding="async" class="visible-xs hidden-sm hidden-md hidden-lg" src="https://wafilife-media.wafilife.com/uploads/2021/03/PB_MOBILE-VIEW.png">
+</div>
+<div class="row">
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/sean-publication/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2022/10/sean-publication.jpg" alt="সিয়ান পাবলিকেশন">
+<div class="caption">
+<h4>সিয়ান পাবলিকেশন</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/%E0%A6%B9%E0%A7%81%E0%A6%A6%E0%A6%B9%E0%A7%81%E0%A6%A6-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B6%E0%A6%A8/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2022/10/hudhud-prokashon.jpg" alt="হুদহুদ প্রকাশন">
+<div class="caption">
+<h4>হুদহুদ প্রকাশন</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/%E0%A6%AE%E0%A6%BE%E0%A6%95%E0%A6%A4%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%A4%E0%A7%81%E0%A6%B2-%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2022/10/maktabatul-islam.jpg" alt="মাকতাবাতুল ইসলাম">
+<div class="caption">
+<h4>মাকতাবাতুল ইসলাম</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/%E0%A6%89%E0%A6%AE%E0%A7%87%E0%A6%A6-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B6/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2022/10/umed-prokash.jpg" alt="উমেদ প্রকাশ">
+<div class="caption">
+<h4>উমেদ প্রকাশ</h4>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/somokalin-prokashon/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.s3.amazonaws.com/uploads/2020/12/somokalin.jpg" alt="সমকালীন প্রকাশন">
+<div class="caption">
+<h4>সমকালীন প্রকাশন</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/%e0%a6%97%e0%a6%be%e0%a6%b0%e0%a7%8d%e0%a6%a1%e0%a6%bf%e0%a7%9f%e0%a6%be%e0%a6%a8-%e0%a6%aa%e0%a6%be%e0%a6%ac%e0%a6%b2%e0%a6%bf%e0%a6%95%e0%a7%87%e0%a6%b6%e0%a6%a8%e0%a7%8d%e0%a6%b8/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.s3.amazonaws.com/uploads/2020/12/guardian.jpg" alt="গার্ডিয়ান পাবলিকেশন্স">
+<div class="caption">
+<h4>গার্ডিয়ান পাবলিকেশন্স</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/sottayon-prokashon/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2021/03/সত্যায়ন.jpg" alt="সত্যায়ন প্রকাশন">
+<div class="caption">
+<h4>সত্যায়ন প্রকাশন</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/%e0%a6%b8%e0%a6%a8%e0%a7%8d%e0%a6%a6%e0%a7%80%e0%a6%aa%e0%a6%a8-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%95%e0%a6%be%e0%a6%b6%e0%a6%a8/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2021/03/সন্দীপন.jpg" alt="সন্দীপন প্রকাশন">
+<div class="caption">
+<h4>সন্দীপন প্রকাশন</h4>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12 col-md-6">
+<a href="https://wafi.life/aslaf/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.s3.amazonaws.com/uploads/2020/12/aslaf.jpg" alt="মাকতাবাতুল আসলাফ">
+<div class="caption">
+<h4>মাকতাবাতুল আসলাফ</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="http://wafi.life/kalantor_publication/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.s3.amazonaws.com/uploads/2020/12/kalantor.jpg" alt="কালান্তর প্রকাশনী">
+<div class="caption">
+<h4>কালান্তর প্রকাশনী</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://wafi.life/ruhama/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.s3.amazonaws.com/uploads/2020/12/ruhama.jpg" alt="রুহামা পাবলিকেশন">
+<div class="caption">
+<h4>রুহামা পাবলিকেশন</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://wafi.life/rahnuma/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.s3.amazonaws.com/uploads/2020/12/RAHNUMA.jpg" alt="রাহনুমা প্রকাশনী">
+<div class="caption">
+<h4>রাহনুমা প্রকাশনী</h4>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12 col-md-6">
+<a href="https://wafi.life/wafi-publication/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.s3.amazonaws.com/uploads/2021/02/wafi-publication.jpg" alt="ওয়াফি পাবলিকেশন">
+<div class="caption">
+<h4>ওয়াফি পাবলিকেশন</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://wafi.life/maktabatul-azhar/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.s3.amazonaws.com/uploads/2021/02/azhar.jpg" alt="মাকতাবাতুল আযহার">
+<div class="caption">
+<h4>মাকতাবাতুল আযহার</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/%e0%a6%ae%e0%a6%be%e0%a6%95%e0%a6%a4%e0%a6%be%e0%a6%ac%e0%a6%be%e0%a6%a4%e0%a7%81%e0%a6%b2-%e0%a6%b9%e0%a6%be%e0%a6%b8%e0%a6%be%e0%a6%a8/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2020/12/hasan.jpg" alt="মাকতাবাতুল হাসান">
+<div class="caption">
+<h4>মাকতাবাতুল হাসান</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://wafi.life/bayan/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.s3.amazonaws.com/uploads/2020/12/BAYAN.jpg" alt="মাকতাবাতুল বায়ান">
+<div class="caption">
+<h4>মাকতাবাতুল বায়ান</h4>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12 col-md-6">
+<a href="http://wafi.life/azan/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.s3.amazonaws.com/uploads/2020/12/azan-prokashoni.jpg" alt="আযান প্রকাশনী">
+<div class="caption">
+<h4>আযান প্রকাশনী</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://wafi.life/muhammod_publication/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2021/09/muhammad-publication_border.jpg" alt="মুহাম্মদ পাবলিকেশন">
+<div class="caption">
+<h4>মুহাম্মদ পাবলিকেশন</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="http://wafi.life/ayan_prokashon/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.s3.amazonaws.com/uploads/2021/02/ayan-publication.jpg" alt="আয়ান প্রকাশন">
+<div class="caption">
+<h4>আয়ান প্রকাশন</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://wafi.life/pothik/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.s3.amazonaws.com/uploads/2020/12/pothik.jpg" alt="পথিক প্রকাশন">
+<div class="caption">
+<h4>পথিক প্রকাশন</h4>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/sabil-publication/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2021/03/sabil.jpg" alt="সাবিল পাবলিকেশন">
+<div class="caption">
+<h4>সাবিল পাবলিকেশন</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/hasanah-publication/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2021/03/hasanah.png" alt="হাসানাহ পাবলিকেশন">
+<div class="caption">
+<h4>হাসানাহ পাবলিকেশন</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://wafi.life/muslim-village/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.s3.amazonaws.com/uploads/2020/12/MUSLIM-VILLAGE.jpg" alt="মুসলিম ভিলেজ">
+<div class="caption">
+<h4>মুসলিম ভিলেজ</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://wafi.life/ilham/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.s3.amazonaws.com/uploads/2021/02/ilham.jpg" alt="ইলহাম">
+<div class="caption">
+<h4>ইলহাম</h4>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/chetona-prokashon/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2021/03/chetona.jpg" alt="চেতনা প্রকাশন">
+<div class="caption">
+<h4>চেতনা প্রকাশন</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/%e0%a6%a8%e0%a6%ac%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%95%e0%a6%be%e0%a6%b6/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2021/09/noboprokash_border.jpg" alt="নবপ্রকাশ">
+<div class="caption">
+<h4>নবপ্রকাশ</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/raiyan-prokashon/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2021/03/rayan.jpg" alt="রাইয়ান প্রকাশন">
+<div class="caption">
+<h4>রাইয়ান প্রকাশন</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/%e0%a6%86%e0%a6%b2%e0%a7%8b%e0%a6%95%e0%a6%bf%e0%a6%a4-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%95%e0%a6%be%e0%a6%b6%e0%a6%a8%e0%a7%80/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2021/03/alokito.jpg" alt="আলোকিত প্রকাশনী">
+<div class="caption">
+<h4>আলোকিত প্রকাশনী</h4>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/%e0%a6%a6%e0%a6%be%e0%a6%b0%e0%a7%81%e0%a6%b2-%e0%a6%86%e0%a6%b0%e0%a6%95%e0%a6%be%e0%a6%ae/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2021/03/darul-arkam.png" alt="দারুল আরকাম">
+<div class="caption">
+<h4>দারুল আরকাম</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/%e0%a6%a8%e0%a6%be%e0%a6%b6%e0%a6%be%e0%a6%a4/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2021/03/nashat.jpg" alt="নাশাত">
+<div class="caption">
+<h4>নাশাত</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/orpon-prokashon/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2021/03/orpon.jpg" alt="অর্পণ প্রকাশন">
+<div class="caption">
+<h4>অর্পণ প্রকাশন</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/%e0%a6%b6%e0%a7%81%e0%a6%a6%e0%a7%8d%e0%a6%a7%e0%a6%bf-publisher/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2021/03/shuddhi.jpg" alt="শুদ্ধি">
+<div class="caption">
+<h4>শুদ্ধি</h4>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/%e0%a6%ae%e0%a6%be%e0%a6%95%e0%a6%a4%e0%a6%be%e0%a6%ac%e0%a6%be%e0%a6%a4%e0%a7%81%e0%a6%b2-%e0%a6%87%e0%a6%a4%e0%a7%8d%e0%a6%a4%e0%a6%bf%e0%a6%b9%e0%a6%be%e0%a6%a6/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2021/03/ittihad.jpg" alt="মাকতাবাতুল ইত্তিহাদ">
+<div class="caption">
+<h4>মাকতাবাতুল ইত্তিহাদ</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/%e0%a6%ae%e0%a6%be%e0%a6%95%e0%a6%a4%e0%a6%be%e0%a6%ac%e0%a6%be%e0%a6%a4%e0%a7%81-%e0%a6%87%e0%a6%ac%e0%a6%b0%e0%a6%be%e0%a6%b9%e0%a7%80%e0%a6%ae/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2021/03/ibrahim.jpg" alt="মাকতাবাতু ইবরাহীম">
+<div class="caption">
+<h4>মাকতাবাতু ইবরাহীম</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/the-path-finder-publication/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2021/03/path-finder.png" alt="দি পাথফাইন্ডার পাবলিকেশন">
+<div class="caption">
+<h4>দি পাথফাইন্ডার পাবলিকেশন</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/shonchalon-prokashoni/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2022/10/sanchalan-prokashoni.jpg" alt="সঞ্চালন প্রকাশনী">
+<div class="caption">
+<h4>সঞ্চালন প্রকাশনী</h4>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/daruttibyan/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2022/10/darut-tibyan.jpg" alt="দারুত তিবইয়ান">
+<div class="caption">
+<h4>দারুত তিবইয়ান</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/fatih-prokashon/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2022/10/fatih-prokashon.jpg" alt="ফাতিহ প্রকাশন">
+<div class="caption">
+<h4>ফাতিহ প্রকাশন</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/proyas-prokashon/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2022/10/proyas-prokashon.png" alt="প্রয়াস প্রকাশন">
+<div class="caption">
+<h4>প্রয়াস প্রকাশন</h4>
+</div>
+</div>
+</a>
+</div>
+
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/%e0%a6%86%e0%a6%a6%e0%a6%b0%e0%a7%8d%e0%a6%b6/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2021/03/adarsha.png" alt="আদর্শ">
+<div class="caption">
+<h4>আদর্শ</h4>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/%E0%A6%90%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A7%8D%E0%A6%AF/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2021/03/oitijjo.png" alt="ঐতিহ্য">
+<div class="caption">
+<h4>ঐতিহ্য</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/%e0%a6%b8%e0%a7%8d%e0%a6%ac%e0%a6%b0%e0%a7%87-%e0%a6%85/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2021/03/sworeo.png" alt="ঐতিহ্য">
+<div class="caption">
+<h4>স্বরে অ</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/%e0%a6%a6%e0%a6%be%e0%a6%81%e0%a7%9c%e0%a6%bf%e0%a6%95%e0%a6%ae%e0%a6%be/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2021/03/darikoma.png" alt="দাঁড়িকমা">
+<div class="caption">
+<h4>দাঁড়িকমা</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/%e0%a6%b6%e0%a7%8b%e0%a6%ad%e0%a6%be-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%95%e0%a6%be%e0%a6%b6/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2021/03/shova.png" alt="শোভা প্রকাশ">
+<div class="caption">
+<h4>শোভা প্রকাশ</h4>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/gankosh-prokashoni/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2022/10/gyankosh-prokashoni.jpg" alt="জ্ঞানকোষ প্রকাশনী">
+<div class="caption">
+<h4>জ্ঞানকোষ প্রকাশনী</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/anyadhara/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2022/10/anyadhara.jpg" alt="অন্যধারা">
+<div class="caption">
+<h4>অন্যধারা</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/suchipotro/" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2022/10/sucheepatra.jpg" alt="সূচীপত্র">
+<div class="caption">
+<h4>সূচীপত্র</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a7%9f%e0%a6%ae%e0%a7%81%e0%a6%96/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2022/10/priomukh.jpg" alt="প্রিয়মুখ">
+<div class="caption">
+<h4>প্রিয়মুখ</h4>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/%e0%a6%8f%e0%a6%b6%e0%a6%bf%e0%a7%9f%e0%a6%be-%e0%a6%aa%e0%a6%be%e0%a6%ac%e0%a6%b2%e0%a6%bf%e0%a6%95%e0%a7%87%e0%a6%b6%e0%a6%a8%e0%a7%8d%e0%a6%b8/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2022/10/Asia-Publications.jpg" alt="এশিয়া পাবলিকেশন্স">
+<div class="caption">
+<h4>এশিয়া পাবলিকেশন্স</h4>
+</div>
+</div>
+</a>
+</div>
+<div class="col-xs-12 col-md-6">
+<a href="https://www.wafilife.com/cat/books/publisher/%e0%a6%9a%e0%a6%b0%e0%a7%8d%e0%a6%9a%e0%a6%be-%e0%a6%97%e0%a7%8d%e0%a6%b0%e0%a6%a8%e0%a7%8d%e0%a6%a5-%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%95%e0%a6%be%e0%a6%b6/?wpsolr_sort=discount_desc" style="text-decoration:none!important">
+<div class="text-center" style="border:1px solid #f2f2f2;border-radius: 4px;padding: 1.5em 0.5em 0 0.5em;margin-bottom:0.75em;min-height: 210px">
+<img decoding="async" class="img-rounded" src="https://wafilife-media.wafilife.com/uploads/2022/10/charchagrantha-prokash.jpg" alt="চর্চা গ্রন্থ প্রকাশ">
+ <div class="caption">
+<h4>চর্চা গ্রন্থ প্রকাশ</h4>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-24">
+<a href="https://www.wafilife.com/cat/books/subject/">
+<img decoding="async" src="https://wafilife-media.wafilife.com/uploads/2021/10/see-all-other-1book.jpg" style="margin:0">
+</a>
+</div>
+</div>
+<p></p>
+</div>
+<footer class="entry-meta">
+</footer>
+</article>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo" class="wd_wide">
+<div class="footer-container">
+<div class="first-footer-widget-area footer-front">
+<div class="container">
+<div class="first-footer-widget-area-1 col-sm-24">
+</div>
+</div>
+</div>
+<div class="second-footer-widget-area footer-front">
+<div class="container">
+<div class="second-footer-widget-area-1 col-sm-24">
+</div>
+</div>
+</div>
+<div class="third-footer-widget-area footer-bg">
+<div class="container">
+<div class="third-footer-widget-area-1 col-sm-24">
+</div>
+</div>
+</div>
+<div class="fifth-footer-widget-area footer-bg">
+<div class="container">
+<div class="fifth-footer-widget-area-1 col-sm-6">
+<ul class="xoxo">
+<li id="custom_html-2" class="widget_text widget-container widget_custom_html"><div class="textwidget custom-html-widget"><img src="https://wafilife-media.wafilife.com/uploads/2021/06/wafi-bangla-logo.png" alt="WafiLife" title="WafiLife">
+<p>
+Wafilife is a leading book shop in Bangladesh. We offer thousands of islamic, general and academic books at a discounted price. We provide good packaging with low shipping cost all over the Bangladesh.
+</p></div></li> </ul>
+</div>
+<div class="fifth-footer-widget-area-2 col-sm-6">
+<ul class="xoxo">
+<li id="text-14" class="widget-container widget_text"><div class="widget_title_wrapper"><a class="block-control" href="javascript:void(0)"></a><h3 class="widget-title heading-title">প্রয়োজনীয় লিংক</h3></div> <div class="textwidget"><div class="widget_product_categories">
+<ul class="wd-block-info footer-information">
+<li><a href="/contact/">যোগাযোগ করুন</a></li>
+<li><a target="_blank" href="https://blog.wafilife.com" rel="noopener">ব্লগ</a></li>
+<li><a href="/cart/">শপিং ব্যাগ</a></li>
+<li><a href="/frequently-asked-questions/">প্রশ্নোত্তর</a></li>
+<li><a href="/how-to-buy">কিভাবে কেনাকাটা করবেন ?</a></li>
+<li><a href="/terms">শর্তাবলী</a></li>
+<li><a href="/refund-policy">রিফান্ড নীতিমালা</a></li>
+<li><a href="/privacy-policy">প্রাইভেসী পলিসি</a></li>
+</ul>
+</div></div>
+</li> </ul>
+</div>
+<div class="fifth-footer-widget-area-3 col-sm-6">
+<ul class="xoxo">
+<li id="custom_html-3" class="widget_text widget-container widget_custom_html"><div class="widget_title_wrapper"><a class="block-control" href="javascript:void(0)"></a><h3 class="widget-title heading-title">জনপ্রিয়</h3></div><div class="textwidget custom-html-widget"><div class="widget_product_categories">
+<ul class="wd-block-info footer-information"><li><a href="/wishlist">আপনার পছন্দের তালিকা</a></li>
+<li><a href="/general-books/">জেনারেল ও অ্যাকাডেমিক বই</a></li>
+<li><a href="/cat/books/author/dr-khandkar-abdullah-jahangir/">ড. খোন্দকার আব্দুল্লাহ জাহাঙ্গীর এর বই</a></li>
+<li><a href="/cat/books/author/%e0%a6%86%e0%a6%b0%e0%a6%bf%e0%a6%ab-%e0%a6%86%e0%a6%9c%e0%a6%be%e0%a6%a6/">আরিফ আজাদ এর বই</a></li>
+<li><a href="/preorder">প্রি-অর্ডার
+</a></li>
+<li><a href="/cat/home-product/প্যাকেজ/">প্যাকেজ
+</a></li>
+<li><a href="/cat/books/subject/electronics-product/">ইলেকট্রনিক্স</a></li>
+</ul>
+</div></div></li> </ul>
+</div>
+<div class="fifth-footer-widget-area-4 col-sm-6">
+<ul class="xoxo">
+<li id="custom_html-4" class="widget_text widget-container widget_custom_html"><div class="widget_title_wrapper"><a class="block-control" href="javascript:void(0)"></a><h3 class="widget-title heading-title">যোগাযোগ</h3></div><div class="textwidget custom-html-widget"><div class="widget_product_categories">
+<ul class="wd-block-info footer-information">
+<li style="margin-bottom:10px">
+<i class="fa fa-map-marker"></i>&nbsp;Head Office: <br /><span>House 310, Road 21</span> <br />
+<span>Mohakhali DOHS, Dhaka-1206</span>
+</li>
+<li>
+<i class="fa fa-mobile"></i>&nbsp;Phone:<br /><a href="tel:+8801799925050">017-9992-5050</a>&nbsp;&nbsp;<a href="tel:+8809678771365">096-7877-1365</a>
+</li>
+<li>
+<i class="fa fa-envelope-o"></i>&nbsp;&nbsp;<span><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="daa9bbb6bfa99aadbbbcb3b6b3bcbff4b9b5b7">[email&#160;protected]</a></span>
+</li>
+<li> <a target="_blank" href="https://www.facebook.com/wafilife" rel="noopener"><i style="color:#fff;font-size:16px" class="fa fa-facebook"></i></a>
+&nbsp;&nbsp;
+<a target="_blank" href="https://www.youtube.com/c/WafiLifebd" rel="noopener"><i style="color:#fff;font-size:16px" class="fa fa-youtube"></i></a>
+&nbsp;&nbsp;
+<a target="_blank" href="https://www.instagram.com/wafilifebd/" rel="noopener"><i style="color:#fff;font-size:16px" class="fa fa-instagram"></i></a>
+&nbsp;&nbsp;
+<a target="_blank" href="https://twitter.com/wafilifebd" rel="noopener"><i style="color:#fff;font-size:16px" class="fa fa-twitter"></i></a>
+&nbsp;&nbsp;
+<a target="_blank" href="https://www.linkedin.com/company/wafilife" rel="noopener"><i style="color:#fff;font-size:16px" class="fa fa-linkedin"></i></a>
+</li>
+</ul>
+</div></div></li> </ul>
+</div>
+</div>
+</div>
+<div class="wd_footer_end footer-bg">
+<div class="container">
+<div id="copy-right" class="copy-right col-sm-12">
+<div class="copyright">
+Copyright © 2022 Wafilife.com </div>
+</div>
+<div class="payment col-sm-12">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="contact_form hidden-xs hidden">
+<div class="contact_form_inner" style="overflow:hidden;" id="wd_contact_content"><div role="form" class="wpcf7" id="wpcf7-f10-p234265-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/online-book-fair/#wpcf7-f10-p234265-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="10" />
+<input type="hidden" name="_wpcf7_version" value="5.5.6" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f10-p234265-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="234265" />
+<input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</div>
+<p> নাম <span>* </span><span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span> </p>
+<p> ফোন নম্বর <span>* </span><span class="wpcf7-form-control-wrap tel-795"><input type="tel" name="tel-795" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" /></span></p>
+<p> ইমেইল <span>* </span><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" /></span> </p>
+<p> বিষয় <span>* </span><span class="wpcf7-form-control-wrap your-subject"><input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span> </p>
+<p> বার্তা <span>* </span> <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></textarea></span> </p>
+<p><input type="submit" value="পাঠিয়ে দিন" class="wpcf7-form-control has-spinner wpcf7-submit" /></p>
+<p style="display: none !important;"><label>&#916;<textarea name="_wpcf7_ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="_wpcf7_ak_js" value="222" /><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p><input type='hidden' class='wpcf7-pum' value='{"closepopup":false,"closedelay":0,"openpopup":false,"openpopup_id":0}' /><div class="wpcf7-response-output" aria-hidden="true"></div></form></div></div>
+</div>
+<div id="to-top" class="scroll-button">
+<a class="scroll-button" href="javascript:void(0)" title="Back to Top">Top</a>
+</div>
+</div>
+</div>
+
+<script async src='https://www.googletagmanager.com/gtag/js?id=UA-65874321-1'></script>
+<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			
+			gtag('config', 'UA-65874321-1');
+			</script><div class="right cart-tab light visible"> <a href="https://www.wafilife.com/cart/" title="View your shopping cart" class="cart-parent">
+<img src='https://www.wafilife.com/wp-content/themes/wp_oswad_market-child/images/loading.gif'> </a>
+<div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div></div> <script type="text/javascript">
+			var _sc_ajax_uri = 'https://www.wafilife.com/wp-admin/admin-ajax.php';
+		</script>
+
+<input type="hidden" id="wpsolr_autocomplete_nonce" value="559e2bec29">
+<div id="pum-536978" class="pum pum-overlay pum-theme-235864 pum-theme-default-theme popmake-overlay auto_open click_open" data-popmake="{&quot;id&quot;:536978,&quot;slug&quot;:&quot;bkash-cashback&quot;,&quot;theme_id&quot;:235864,&quot;cookies&quot;:[{&quot;event&quot;:&quot;on_popup_open&quot;,&quot;settings&quot;:{&quot;name&quot;:&quot;pum-536978&quot;,&quot;key&quot;:&quot;&quot;,&quot;session&quot;:false,&quot;path&quot;:&quot;1&quot;,&quot;time&quot;:&quot;1 month&quot;}}],&quot;triggers&quot;:[{&quot;type&quot;:&quot;auto_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:[&quot;pum-536978&quot;],&quot;delay&quot;:&quot;1000&quot;}},{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;cookie_name&quot;:null}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;auto&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-hidden="true">
+<div id="popmake-536978" class="pum-container popmake theme-235864">
+<div class="pum-content popmake-content" tabindex="0">
+<p><a href="https://www.wafilife.com/online-book-fair/"><img decoding="async" loading="lazy" class="alignnone size-medium wp-image-536982" style="margin: 0" src="https://wafilife-media.wafilife.com/uploads/2021/03/বিকাশ-বুকমার্ক-অফার_popup.jpg" alt="" width="500" height="500" /></a></p>
+</div>
+<button type="button" class="pum-close popmake-close" aria-label="Close">
+X </button>
+</div>
+</div>
+<div id='extra-add-product-popup' class='modal fade' tabindex='-1' role='dialog'>
+<div class='modal-dialog body-wrapper' role='document'>
+<div class='modal-content'>
+<div class='modal-header'>
+<img src='https://www.wafilife.com/wp-content/themes/wp_oswad_market-child/images/cart.png' />
+<span class='title'>আপনি শপিং কার্টে একটি নতুন পণ্য যুক্ত করেছেন</span>
+<button type='button' class='close' data-dismiss='modal' aria-label='Close'><span aria-hidden='true'>&times;</span></button>
+</div>
+<div class='modal-body'>
+<div class='add_to_cart_popup_upper'>
+<div class='add_to_cart_popup_upper_header'>
+</div><div class='add_to_cart_popup_upper_body'>
+<div class='row'>
+<div id='popup_cart_info' class='col-sm-10'>
+<div class='cart_info'></div> </div>
+<div id='proceed_to_checkout' class='col-sm-14 text-center'>
+<a href='/cart/' class='button buy-more'><span>শপিং ব্যাগ</span></a>
+<a href='https://www.wafilife.com/checkout/' title='checkout' class='button checkout-link'><span>অর্ডার সম্পন্ন করুন</span></a>
+</div></div>
+</div></div>
+<div class='cross-sell'></div>
+</div>
+</div>
+</div>
+</div> <script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+<style id='core-block-supports-inline-css' type='text/css'>
+.wp-block-columns.wp-container-2{flex-wrap:nowrap;}
+</style>
+<script type='text/javascript' src='https://www.wafilife.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.wafilife.com\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.5.6' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/plugins/wd_shortcode/js/wd_shortcode.js?ver=160119.0505' id='wd_shortcode-js'></script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/plugins/wd_shortcode/js/bootstrap.js?ver=2021052' id='bootstrap-js'></script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/plugins/wd_shortcode/js/jquery.imagesloaded.min.js?ver=2021052' id='jquery.imagesloaded-js'></script>
+<script type='text/javascript' id='jquery-blockui-js-extra'>
+/* <![CDATA[ */
+var jquery_blockui_params = {"request_timeout":"10000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.6.3.1' id='jquery-blockui-js'></script>
+<script type='text/javascript' id='wc-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/www.wafilife.com\/cart\/","is_cart":"","cart_redirect_after_add":"no","request_timeout":"10000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2021052' id='wc-add-to-cart-js'></script>
+<script type='text/javascript' id='js-cookie-js-extra'>
+/* <![CDATA[ */
+var js_cookie_params = {"request_timeout":"10000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.6.3.1' id='js-cookie-js'></script>
+<script type='text/javascript' id='woocommerce-js-extra'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","request_timeout":"10000","currency":"BDT"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2021052' id='woocommerce-js'></script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/plugins/wpsolr-search-engine/js/bootstrap-typeahead.js?ver=14.9' id='solr_auto_js1-js'></script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/plugins/wpsolr-search-engine/bower_components/jsurl/url.min.js?ver=14.9' id='urljs-js'></script>
+<script type='text/javascript' id='autocomplete-js-extra'>
+/* <![CDATA[ */
+var wp_localize_script_autocomplete = {"ajax_url":"https:\/\/www.wafilife.com\/wp-admin\/admin-ajax.php?","is_show_url_parameters":"1","is_url_redirect":"","SEARCH_PARAMETER_SEARCH":"search","SEARCH_PARAMETER_Q":"wpsolr_q","SEARCH_PARAMETER_FQ":"wpsolr_fq","SEARCH_PARAMETER_SORT":"wpsolr_sort","SEARCH_PARAMETER_PAGE":"wpsolr_page","SORT_CODE_BY_RELEVANCY_DESC":"sort_by_relevancy_desc","wpsolr_autocomplete_selector":".search-field","wpsolr_autocomplete_action":"wdm_return_solr_rows","wpsolr_autocomplete_nonce_selector":"#wpsolr_autocomplete_nonce"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/plugins/wpsolr-search-engine/js/autocomplete_solr.js?ver=14.9' id='autocomplete-js'></script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.13.2' id='jquery-ui-menu-js'></script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca' id='wp-dom-ready-js'></script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-includes/js/dist/a11y.min.js?ver=ecce20f002eda4c19664' id='wp-a11y-js'></script>
+<script type='text/javascript' id='jquery-ui-autocomplete-js-extra'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.13.2' id='jquery-ui-autocomplete-js'></script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/plugins/wafi-custom-search/js/ajax-solr-master/core/Core.js?ver=2021052' id='ajax-solr-core-js'></script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/plugins/wafi-custom-search/js/ajax-solr-master/core/AbstractManager.js?ver=2021052' id='ajax-solr-abstract-manager-js'></script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/plugins/wafi-custom-search/js/ajax-solr-master/managers/Manager.jquery.js?ver=2021052' id='ajax-solr-manager-js'></script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/plugins/wafi-custom-search/js/ajax-solr-master/core/Parameter.js?ver=2021052' id='ajax-solr-parameter-js'></script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/plugins/wafi-custom-search/js/ajax-solr-master/core/ParameterStore.js?ver=2021052' id='ajax-solr-parameterstore-js'></script>
+<script type='text/javascript' id='wafi-autocomplete-js-extra'>
+/* <![CDATA[ */
+var solr_url = "https:\/\/www.wafilife.com:\/solr\/wafilife\/";
+var site_url = "https:\/\/www.wafilife.com";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/plugins/wafi-custom-search/js/solr-autocomplete.js?v=1.0.1&#038;ver=2021052' id='wafi-autocomplete-js'></script>
+<script type='text/javascript' id='wc-cart-fragments-js-extra'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_45b903820d1c75d607fa61e4526d2d88","fragment_name":"wc_fragments_45b903820d1c75d607fa61e4526d2d88","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2021052' id='wc-cart-fragments-js'></script>
+<script type='text/javascript' id='tinvwl-js-extra'>
+/* <![CDATA[ */
+var tinvwl_add_to_wishlist = {"text_create":"Create New","text_already_in":"\u09aa\u09a3\u09cd\u09af\u099f\u09bf \u0987\u09a4\u09bf\u09ae\u09a7\u09cd\u09af\u09c7 \u0986\u09aa\u09a8\u09be\u09b0 \u09aa\u099b\u09a8\u09cd\u09a6\u09c7\u09b0 \u09a4\u09be\u09b2\u09bf\u0995\u09be\u09df \u09b0\u09df\u09c7\u099b\u09c7","simple_flow":"","hide_zero_counter":"","i18n_make_a_selection_text":"Please select some product options before adding this product to your wishlist.","tinvwl_break_submit":"No items or actions are selected.","tinvwl_clipboard":"Copied!","allow_parent_variable":"","block_ajax_wishlists_data":"","update_wishlists_data":"","hash_key":"ti_wishlist_data_45b903820d1c75d607fa61e4526d2d88","nonce":"ffdfe596c2","rest_root":"https:\/\/www.wafilife.com\/wp-json\/","plugin_url":"https:\/\/www.wafilife.com\/wp-content\/plugins\/ti-woocommerce-wishlist\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/plugins/ti-woocommerce-wishlist/assets/js/public.min.js?ver=1.44.0' id='tinvwl-js'></script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/themes/wp_oswad_market/framework/js/TweenMax.js?ver=2021052' id='TweenMax-js'></script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/themes/wp_oswad_market/framework/js/jquery.touchSwipe.js?ver=2021052' id='jquery.touchSwipe-js'></script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/themes/wp_oswad_market/framework/js/include-script.js?ver=2021052' id='include-script-js'></script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/themes/wp_oswad_market/js/jquery.prettyPhoto.min.js?ver=2021052' id='jquery.prettyPhoto_-js'></script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/themes/wp_oswad_market/js/jquery.prettyPhoto.init.min.js?ver=2021052' id='jquery.prettyPhoto.init-js'></script>
+<script type='text/javascript' id='popup-maker-site-js-extra'>
+/* <![CDATA[ */
+var pum_vars = {"version":"1.16.7","pm_dir_url":"https:\/\/www.wafilife.com\/wp-content\/plugins\/popup-maker\/","ajaxurl":"https:\/\/www.wafilife.com\/wp-admin\/admin-ajax.php","restapi":"https:\/\/www.wafilife.com\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"235864","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[],"analytics_route":"analytics","analytics_api":"https:\/\/www.wafilife.com\/wp-json\/pum\/v1"};
+var pum_sub_vars = {"ajaxurl":"https:\/\/www.wafilife.com\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-536978":{"triggers":[{"type":"auto_open","settings":{"cookie_name":["pum-536978"],"delay":"1000"}}],"cookies":[{"event":"on_popup_open","settings":{"name":"pum-536978","key":"","session":false,"path":"1","time":"1 month"}}],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"235864","size":"auto","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"default-theme","id":536978,"slug":"bkash-cashback"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//wafilife-media.s3.amazonaws.com/uploads/pum/pum-site-scripts.js?defer&#038;generated=1667906060&#038;ver=1.16.7' id='popup-maker-site-js'></script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/themes/wp_oswad_market-child/js/custom_cart_display.js?ver=202101' id='custom-cart-js'></script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/themes/wp_oswad_market-child/js/jquery.bpopup.min.js?ver=2021052' id='bpopup-js'></script>
+<script type='text/javascript' id='wafiscript-js-extra'>
+/* <![CDATA[ */
+var ajaxurl = "https:\/\/www.wafilife.com\/wp-admin\/admin-ajax.php";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/themes/wp_oswad_market-child/js/wafi.js?ver=202107' id='wafiscript-js'></script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/themes/wp_oswad_market-child/js/oswadmarket.js?ver=202106' id='wafimobilemenu-js'></script>
+<script type='text/javascript' id='wafi-add-to-cart-js-extra'>
+/* <![CDATA[ */
+var ajaxurl = "https:\/\/www.wafilife.com\/wp-admin\/admin-ajax.php";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/themes/wp_oswad_market-child/js/wafi-add-to-cart.js?ver=202102' id='wafi-add-to-cart-js'></script>
+<script type='text/javascript' id='aepc-pixel-events-js-extra'>
+/* <![CDATA[ */
+var aepc_pixel_events = {"custom_events":{"AdvancedEvents":[{"params":{"login_status":"not_logged_in","post_type":"page","object_id":234265,"object_type":"page"},"delay":0}]}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.wafilife.com/wp-content/plugins/pixel-caffeine/build/frontend.js?ver=2.1.4' id='aepc-pixel-events-js'></script>
+</body>
+</html>
