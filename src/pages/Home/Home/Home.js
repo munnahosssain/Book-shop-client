@@ -1,17 +1,13 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import ItemProduct from './ItemProduct';
 import Cart from '../Review/Cart';
+import useFetch from '../../../hooks/useFetch';
 
 const Home = () => {
-    const [product, setProduct] = useState([]);
+    const [product, setProduct] = useFetch();
     const [cart, setCart] = useState([]);
 
-    useEffect(() => {
-        const url = 'books.json';
-        fetch(url)
-            .then(res => res.json())
-            .then(data => setProduct(data))
-    }, []);
+    console.log(product);
 
     const addProducts = (product) => {
         setCart(product.id);

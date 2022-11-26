@@ -1,26 +1,23 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import { useParams } from 'react-router-dom';
+import useFetch from '../../../hooks/useFetch';
 
 const ProductDetails = () => {
 
-    // const { productId } = useParams();
+    const [product, setProduct] = useFetch();
+
+    const { productId } = useParams();
     // const [product, setProduct] = useState([]);
 
-
-    // useEffect(() => {
-    //     const url = 'books.json';
-    //     fetch(url)
-    //         .then(res => res.json())
-    //         .then(data => setProduct(data))
-    // }, []);
+    console.log(product);
 
     // const findProduct = [...product];
 
-    // const products = findProduct.find(pd => pd.id === productId);
+    const products = product.find(pd => pd.id === productId);
 
     return (
         <div>
-            <p>product id: </p>
+            <p>product id: {product}</p>
         </div>
     );
 };
