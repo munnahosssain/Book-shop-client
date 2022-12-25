@@ -1,33 +1,22 @@
 import React, { Suspense } from "react";
-import { useState } from "react";
-import { createContext } from "react";
 import { BrowserRouter, Routes, Route, } from "react-router-dom";
-import Order from "./pages/Home/Review/Order";
+import BookDetails from "./pages/Home/Home/BookDetails";
+import Navbar from "./shared/Navbar/NavBar/Navbar";
 
+import NotFound from "./shared/Navbar/NotFound/NotFound";
 const Home = React.lazy(() => import('./pages/Home/Home/Home'));
-const ProductDetails = React.lazy(() => import('./pages/Home/Home/ProductDetails'));
-const Navbar = React.lazy(() => import('./shared/Navbar/NavBar/Navbar'));
-const NotFound = React.lazy(() => import('./shared/NotFound/NotFound'));
-
-export const COUNTER_CONTEXT = createContext();
 
 function App() {
-  const [count, setCount] = useState(0)
-  const value = { count, setCount };
-
   return (
     <div>
       <BrowserRouter>
-        <Suspense fallback={<div>Almost there...</div>}>
+        <Suspense fallback={<div>Loading...</div>}>
           <Navbar />
-          <COUNTER_CONTEXT.Provider value={value}>
-            <Routes>
-              <Route path="/" element={<Home />} />
-              <Route path="/order" element={<Order />} />
-              <Route path="/books/:bookId" element={<ProductDetails />} />
-              <Route path="*" element={<NotFound />} />
-            </Routes>
-          </COUNTER_CONTEXT.Provider>
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/book/:bookId" element={<BookDetails />} />
+            <Route path="*" element={<NotFound />} />
+          </Routes>
         </Suspense>
       </BrowserRouter>
     </div>
