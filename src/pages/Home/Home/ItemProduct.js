@@ -1,9 +1,14 @@
+import { useContext } from 'react';
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
+import { COUNTER_CONTEXT } from '../../../App';
+import { FaShoppingCart } from 'react-icons/fa';
 
 const ItemProduct = ({ product, addProducts }) => {
+    
+    const { name, img, _id } = product;
     const [readMore, setReadMore] = useState(false);
-    const { name, img, id, title } = product;
+    const { count, setCount } = useContext(COUNTER_CONTEXT);
 
     const toggleBtn = () => {
         setReadMore(prevState => !prevState);
@@ -11,19 +16,15 @@ const ItemProduct = ({ product, addProducts }) => {
 
     return (
         <div style={{ display: "flex" }}>
-            <div className="bg-base-200 shadow-xl mt-5">
-                <figure><img className='h48 w-48' src={img} alt="Movie" /></figure>
+            <div className="card w-96 bg-base-100">
+                <figure><img className='h68 w-48' src={img} alt="book" /></figure>
                 <div className="card-body">
-                    <Link to={'/product/' + id} className="text-lg font-bold">{name}</Link>
-                    <div>
-                        {
-                            readMore ? title : title.substr(0, 100)
-                        }
-                        <button className='text-xl underline' onClick={toggleBtn}>
-                            {readMore ? 'see less' : '...see more'}
-                        </button>
+                    <Link to={'/books/' + _id} className="text-base font-bold">{name}</Link>
+                    {/* <p></p> */}
+                    <div className="btn btn-outline btn-wide justify-center hover:bg-sky-700">
+                        <button onClick={() => { addProducts(product); setCount(count + 1) }} className="flex items-center">
+                            <FaShoppingCart className='mr-2' size={20} />Add to cart</button>
                     </div>
-                    <button onClick={() => addProducts(product)} className="btn btn-primary">Add to cart</button>
                 </div>
             </div>
         </div>

@@ -4,8 +4,7 @@ const useFetch = () => {
     const [product, setProduct] = useState([]);
 
     useEffect(() => {
-        const url = 'books.json';
-        fetch(url)
+        fetch('https://book-shop-server.onrender.com/books')
             .then(res => res.json())
             .then(data => setProduct(data))
     }, []);

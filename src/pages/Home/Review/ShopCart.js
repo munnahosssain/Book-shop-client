@@ -1,11 +1,8 @@
 import React from 'react';
-import { useContext } from 'react';
-import { FaShoppingCart } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
-import { COUNTER_CONTEXT } from '../../../App';
+import { HiArrowNarrowRight } from 'react-icons/hi';
 
-const Cart = (props) => {
-    const { count } = useContext(COUNTER_CONTEXT);
+const ShopCart = (props) => {
     const { cart } = props;
 
     let total = 0;
@@ -16,44 +13,39 @@ const Cart = (props) => {
         total = total + product.price * product.quantity;
         shipping = shipping + product.shipping;
     }
-    
+
     const tax = parseFloat((total * .15).toFixed(2));
     const grandTotal = (total + shipping + tax).toFixed(2);
+
     return (
-        // <div style={{ position: "sticky", top: 450, }} className="px-8 max-w-sm mx-auto bg-[#dc2626] rounded-xl sm:py-2 sm:flex sm:items-center sm:space-y-0 sm:space-x-6">
-        //     <div className="text-center space-y-2 sm:text-left">
-        //         <h1 className="text-lg text-white font-semibold mb-[-5px] ml-1.5">{count} ৳</h1>
-        //         <FaShoppingCart size={40} color='white' />
-        //     </div>
-        // </div>
         <div style={{ position: "sticky", top: 10, }} className='text-cyan-800'>
             <h3 className='text-2xl text-center font-bold p-5 mb-4'>Order Summary</h3>
-            <div className='flex justify-between'>
+            <div className='flex justify-around'>
                 <p>Selected</p>
                 <p>{quantity} {(quantity > 1) ? 'Items' : 'Item'}</p>
             </div>
-            <div className='flex justify-between'>
+            <div className='flex justify-around'>
                 <p className='mt-5 mb-5'>Subtotal</p>
                 <p className='mt-5 mb-5'>{total} Tk.</p>
             </div>
-            <div className='flex justify-between'>
+            <div className='flex justify-around'>
                 <p>Shipping</p>
                 <p>{shipping} Tk.</p>
             </div>
-            <div className='flex justify-between'>
+            <div className='flex justify-around'>
                 <p className='mt-5 mb-5'>Vat/Tax</p>
                 <p className='mt-5 mb-5'>{tax} Tk.</p>
             </div>
-            <div className='flex justify-between'>
+            <div className='flex justify-around'>
                 <p className='font-bold'>Payable Total</p>
                 <p className='font-bold'>{grandTotal} Tk.</p>
             </div>
-            <Link to='/order' className="btn btn-block btn-success mt-5 text-white">
-                hh
-                {/* <HiArrowNarrowRight size={30} className='ml-2' /> */}
+            <Link to='/order' className="btn btn-block btn-succes mt-5 text-white">
+                place order
+                <HiArrowNarrowRight size={30} className='ml-2' />
             </Link>
         </div>
     );
 };
 
-export default Cart;
+export default ShopCart;
