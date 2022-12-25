@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route, } from "react-router-dom";
 import BookDetails from "./pages/Home/Home/BookDetails";
 import Navbar from "./shared/Navbar/NavBar/Navbar";
 
-import NotFound from "./shared/Navbar/NotFound/NotFound";
+import NotFound from "./shared/NotFound/NotFound";
 const Home = React.lazy(() => import('./pages/Home/Home/Home'));
 
 function App() {
